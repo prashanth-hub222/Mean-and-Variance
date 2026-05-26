@@ -1,5 +1,5 @@
-## Name : DEVESH S
-## Register Number : 212223230041
+## Name : prashanth raaj s
+## Register Number : 212225100035
 
 #  Mean and variance of a discrete  distribution
 
